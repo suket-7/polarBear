@@ -20,7 +20,7 @@ function NavBar() {
                         Contact Me
                     </a>
                 </div>
-                <SmallWhiteButton title="Lets Talk" link="https://www.google.com" />
+                <SmallWhiteButton title="Lets Smash" link="https://www.google.com" />
             </div>
         </div>
     )
